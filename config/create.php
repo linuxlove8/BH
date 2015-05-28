@@ -12,6 +12,8 @@ $create = mysqli_query($dbc, "CREATE DATABASE IF NOT EXISTS blackhat") OR die(my
 //Make sure recently created database is active one
 mysqli_select_db('blackhat');
 
+//test
+
 
 
 
